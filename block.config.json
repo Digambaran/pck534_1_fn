@@ -1,0 +1,13 @@
+{
+  "name": "pck534_1_fn",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/Digambaran/pck534_1_fn",
+    "ssh": "git@github.com:Digambaran/pck534_1_fn.git"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "",
+  "postPull": "npm i",
+  "standAloneBlock": false
+}
